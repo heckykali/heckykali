@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi there, I'm Vraj Patel! 👋<br><br>
-About Me:<br><br>I’m currently learning MCA (Master of Computer Applications)<br>I’m looking to collaborate on Java, Web Development, and mini projects<br>I’m looking for help with Advanced Java, frameworks, and real-world projects<br>You can ask me about programming, college life, or fun facts<br>Fun fact: I enjoy exploring new technologies and solving coding problems<br><br>Skills & Technologies:<br><br>Programming Languages: Java, C, C++<br>Web Technologies: HTML, CSS, JavaScript<br>Database: MySQL<br>Tools: Git, GitHub, VS Code, Eclipse<br><br>Connect With Me:<br><br>Email: patelvraj2708@example.com<br>LinkedIn: https://www.linkedin.com/in/vraj-patel-7137a52b6<br><br>Always learning, always growing ⭐
-
+About Me:<br><br>I’m currently learning MCA (Master of Computer Applications)<br>
+I’m looking to collaborate on Java, Web Development, and mini projects<br>
+I’m looking for help with Advanced Java, frameworks, and real-world projects<br>
+You can ask me about programming, college life, or fun facts<br>Fun fact: I enjoy exploring new technologies and solving coding problems<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vraj._patel._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vraj-patel-7137a52b6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Vraj_Creator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelvraj2708@gmail.com) 
