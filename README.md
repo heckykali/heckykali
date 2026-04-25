@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Vraj Patel! 👋<br><br>
-About Me:<br><br>I’m currently learning MCA (Master of Computer Applications)<br>
+I’m currently learning MCA (Master of Computer Applications)<br>
 I’m looking to collaborate on Java, Web Development, and mini projects<br>
 I’m looking for help with Advanced Java, frameworks, and real-world projects<br>
 You can ask me about programming, college life, or fun facts<br>Fun fact: I enjoy exploring new technologies and solving coding problems<br><br>
